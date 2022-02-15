@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on analysis of feedback systems with a supplement on the
   dynamics of a DC motor with pinion rack load and velocity feedback.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-systems-modeling-and-control-ii-fall-2007/279b42526458626657f4b1bb40db0a7c_lecture12.pdf
+file: /media/courses/2-004-systems-modeling-and-control-ii-fall-2007/279b42526458626657f4b1bb40db0a7c_lecture12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture12.pdf
 uid: 279b4252-6458-6266-57f4-b1bb40db0a7c

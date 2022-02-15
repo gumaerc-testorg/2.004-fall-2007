@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture slides on root locus and cranking up the gain.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-systems-modeling-and-control-ii-fall-2007/42ab62a0699291ca56df0715ba994c93_lecture17.pdf
+file: /media/courses/2-004-systems-modeling-and-control-ii-fall-2007/42ab62a0699291ca56df0715ba994c93_lecture17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture17.pdf
 uid: 42ab62a0-6992-91ca-56df-0715ba994c93

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-systems-modeling-and-control-ii-fall-2007/451e0fa693919ae37b93bbf562f6ff31_sol03.pdf
+file: /media/courses/2-004-systems-modeling-and-control-ii-fall-2007/451e0fa693919ae37b93bbf562f6ff31_sol03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: sol03.pdf
 uid: 451e0fa6-9391-9ae3-7b93-bbf562f6ff31
