@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 297befa5-f0da-480c-cd4d-d14eea022573
 resourcetype: Document
 title: tower2.pdf
 uid: c9966ee0-915b-f089-34ec-d9f94cbc1abe

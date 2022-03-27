@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 297befa5-f0da-480c-cd4d-d14eea022573
 resourcetype: Document
 title: rotational_plant.pdf
 uid: 1fea645f-81d1-c9de-216a-e728d1fa3dde

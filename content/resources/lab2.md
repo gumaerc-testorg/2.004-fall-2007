@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 297befa5-f0da-480c-cd4d-d14eea022573
 resourcetype: Document
 title: lab2.pdf
 uid: a57ac8db-6308-b506-d05d-2c0d106e9041
