@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The calendar section provides the schedule of lecture topics, readings,
+  labs, and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 5b63a096-dc27-a399-938e-543e638254b4
 ---

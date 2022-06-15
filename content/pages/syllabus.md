@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides information on the course text, problem
+  sets, quizzes, the final examination, grading, course ethics, and lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 860ec0cf-1f38-8967-2038-ca15625c94c1
 ---
