@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d1eeb003-70a1-b8e5-5211-e97eacb45b0e
 ---
 
-Lecture 2 refers to the following MATLAB® files for solving ODEs: ([ZIP]({{< baseurl >}}/resources/ode)) (The ZIP file contains: shaft\_w\_coulomb\_viscous.m, shaftcv\_kernel.m, and shaftcv\_solve.m files.)
+Lecture 2 refers to the following MATLAB® files for solving ODEs: ({{% resource_link cab84318-d779-3062-ef90-163d9d5183bd "ZIP" %}}) (The ZIP file contains: shaft\_w\_coulomb\_viscous.m, shaftcv\_kernel.m, and shaftcv\_solve.m files.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -30,7 +34,7 @@ NOTES
 Introduction; mechanical elements
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture01))
+({{% resource_link a88a11a6-78ec-c379-221c-7d9726d5bb43 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Introduction; mechanical elements
 Solving ODEs; cruise control
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture02))
+({{% resource_link d1012e55-7098-9e02-c172-b95fd5b96047 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ Solving ODEs; cruise control
 Laplace transforms; transfer functions; translational and rotational mechanical transfer functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture03))
+({{% resource_link 63c439db-eddf-8111-d5e6-c7b95440b5a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +70,7 @@ Laplace transforms; transfer functions; translational and rotational mechanical 
 Electrical and electro-mechanical system transfer functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture04))
+({{% resource_link 66b3e0a9-d62a-d39e-9737-b36b813060c6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Electrical and electro-mechanical system transfer functions
 DC motor transfer function
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture05))
+({{% resource_link 92b7076d-416d-5ae7-f9a2-6c100b52b724 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +94,7 @@ DC motor transfer function
 Poles and zeros; 1st order systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture06))
+({{% resource_link 26a1e745-9044-ff26-52c6-3c7c98138e4b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +106,7 @@ Poles and zeros; 1st order systems
 2nd order systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture07))
+({{% resource_link c790992c-c791-df7d-0fda-e34fce3d360f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +118,7 @@ Poles and zeros; 1st order systems
 2nd order systems (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture08))
+({{% resource_link 0ab1a19f-48f3-3bc8-9a7e-81f160663a8e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +130,7 @@ Poles and zeros; 1st order systems
 More than 2 poles; zeros; nonlinearities and linearization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture09))
+({{% resource_link 7e87ec90-8140-0f72-1b5d-53f130a3e768 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +142,7 @@ More than 2 poles; zeros; nonlinearities and linearization
 Examples of modeling & transfer functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10))
+({{% resource_link a24358b7-a762-b109-e2a5-8198764a3d2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +154,7 @@ Examples of modeling & transfer functions
 Block diagrams; feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11))
+({{% resource_link 74137e92-6a77-67c5-6074-06c73dd28591 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +166,7 @@ Block diagrams; feedback
 Analysis of feedback systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12))
+({{% resource_link 279b4252-6458-6266-57f4-b1bb40db0a7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +190,7 @@ Quiz 1
 Stability; Routh-Hurwitz criterion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture14))
+({{% resource_link 1c941c71-1ac3-fa98-6d1e-8abb95acaf16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +204,7 @@ Stability analysis
 {{< tdopen >}}
 
 
-Please see the following selections from MathWorks, Inc. "Control System Toolbox Getting Started Guide." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](https://www.mathworks.com/help/control/getting-started-with-control-system-toolbox.html))
+Please see the following selections from MathWorks, Inc. "Control System Toolbox Getting Started Guide." ([PDF - 1.8 MB](https://www.mathworks.com/help/control/getting-started-with-control-system-toolbox.html))
 
 Chapter 1, all  
 Chapter 2, pp. 1-9 and 23-25  
@@ -218,7 +222,7 @@ Chapter 3, pp. 1-9, 17-20, and 32-39
 Steady state error analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture16))
+({{% resource_link 2ae4b585-b809-4070-cd2b-77cbde5d6f6f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +234,7 @@ Steady state error analysis
 Root locus introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture17))
+({{% resource_link 42ab62a0-6992-91ca-56df-0715ba994c93 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,7 +246,7 @@ Root locus introduction
 Root locus example
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture18))
+({{% resource_link bb696f04-98d6-f0ad-259e-e6e62b6e6edf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +258,7 @@ Root locus example
 Design of transient response using root locus
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture19))
+({{% resource_link 436d7daa-d6dc-44fe-ada0-aa44063de3ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +270,7 @@ Design of transient response using root locus
 Positive feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture20))
+({{% resource_link acd3e133-6b6d-9955-2479-a33651561b49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +282,7 @@ Positive feedback
 Examples of design via root locus
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture21))
+({{% resource_link a79828e3-abd3-b009-03ce-fe34ae9d03f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +294,7 @@ Examples of design via root locus
 Steady-state error compensation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture22))
+({{% resource_link 06e4a276-21c1-08be-d85c-50bd2636e3ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +306,7 @@ Steady-state error compensation
 Transient response compensation; transient and steady-state error compensation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture23))
+({{% resource_link 6406aa11-96cd-4db0-634a-c26bda457b31 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +318,7 @@ Transient response compensation; transient and steady-state error compensation
 Compensation examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture24))
+({{% resource_link bb1bf31d-4c0f-ffe9-fd11-32b6a67e6698 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +330,7 @@ Compensation examples
 Feedback compensation and its physical realization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture25))
+({{% resource_link 06e93bf0-2326-4928-29b1-950e29645b33 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -338,7 +342,7 @@ Feedback compensation and its physical realization
 Feedback design examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture26))
+({{% resource_link 6842f16b-609c-d27a-97be-4a8186ee6513 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -362,7 +366,7 @@ Quiz 2
 Frequency response; bode plots
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture28))
+({{% resource_link 25e3664e-b6a4-b620-74e1-ec4b9bb0b2be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -374,7 +378,7 @@ Frequency response; bode plots
 Bode plot examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/29))
+({{% resource_link 6a56e072-7610-3d6f-3b6c-5ed871bb9caa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -386,7 +390,7 @@ Bode plot examples
 Gain margin and phase margin
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture30))
+({{% resource_link d6a3f04e-f329-0cc9-53f2-494442b0602f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -398,7 +402,7 @@ Gain margin and phase margin
 Design using the frequency response; lead, lag, lead-lag compensators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture31))
+({{% resource_link d7f72387-260f-f809-af4c-d8de9fe1d529 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +414,7 @@ Design using the frequency response; lead, lag, lead-lag compensators
 The state-space representation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture32))
+({{% resource_link 8c15f431-2a7b-9030-915d-fd84710aa644 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -422,7 +426,7 @@ The state-space representation
 Solving the state equations in the time and space domains
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture33))
+({{% resource_link 006b6510-d631-c7e5-ec1a-d0c1249ea4af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -470,7 +474,7 @@ Optimal control; the minimum time problem
 Review: modeling and transfer functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture37))
+({{% resource_link e9aa7149-ed6e-fc85-e795-ba1c4b5e332d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -482,7 +486,7 @@ Review: modeling and transfer functions
 Review: root locus, feedback design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture38))
+({{% resource_link 1940c272-d7cd-1523-2515-da595695846b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -494,7 +498,7 @@ Review: root locus, feedback design
 Review: frequency domain and design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture39))
+({{% resource_link 04d81564-36c4-203a-ac42-6ccbfcfe2b1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
