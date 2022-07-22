@@ -5,6 +5,7 @@ file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/04d8156436c4203aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture39.pdf
 uid: 04d81564-36c4-203a-ac42-6ccbfcfe2b1b
 ---
 Lecture slides with a review of frequency domain and design.
-

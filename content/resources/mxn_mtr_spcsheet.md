@@ -5,6 +5,7 @@ file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/c04aaea95b20bb4c0
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/26a1e7459044ff265
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture06.pdf
 uid: 26a1e745-9044-ff26-52c6-3c7c98138e4b
 ---
 Lecture slides on first-order systems response, DC motor dynamics, and two new properties of the Laplace transform.
-

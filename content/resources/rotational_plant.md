@@ -6,6 +6,7 @@ file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/1fea645f81d1c9de2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rotational_plant.pdf
 uid: 1fea645f-81d1-c9de-216a-e728d1fa3dde
 ---
 Lab handout on the experimental rotation plant, consisting of a rotational flywheel and motor. (Courtesy Prof. Emanuel Sachs. Used with permission.)
-

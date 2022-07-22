@@ -5,6 +5,7 @@ file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/2655a03ac5ab9c9b8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol09.pdf
 uid: 2655a03a-c5ab-9c9b-81f1-35e2903d5d3b
 ---
 Problem set solutions.
-

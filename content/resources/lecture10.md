@@ -7,6 +7,7 @@ file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/a24358b7a762b109e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture10.pdf
 uid: a24358b7-a762-b109-e2a5-8198764a3d2c
 ---
 Lecture slides on the operational amplifier, input-output relationships, feedback configuration, zero on the right-half plane: non-minimum phase response, and zero-pole cancellation.
-
