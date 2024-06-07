@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set solutions.
 file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/2655a03ac5ab9c9b81f135e2903d5d3b_sol09.pdf
+file_size: 306283
 file_type: application/pdf
 learning_resource_types:
 - Assignments

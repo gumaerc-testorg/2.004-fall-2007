@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on block diagram components, cascading subsystems, loading
   and cascade, parallel subsystems, negative feedback, and transient response.
 file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/74137e926a7767c5607406c73dd28591_lecture11.pdf
+file_size: 274312
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
