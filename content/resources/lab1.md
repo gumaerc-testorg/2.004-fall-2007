@@ -4,6 +4,7 @@ description: Lab project to measure the frictional characteristics of the rotati
   plant. The lab is intended to familiarize students with the laboratory equipment
   and software tools that used throughout the term.
 file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/a34300508bdb63fcde17154c2d16fa3c_lab1.pdf
+file_size: 169909
 file_type: application/pdf
 learning_resource_types:
 - Labs
