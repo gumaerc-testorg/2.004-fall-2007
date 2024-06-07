@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on an undamped DC motor system.
 file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/0ab1a19f48f33bc89a7e81f160663a8e_lecture08.pdf
+file_size: 112204
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on stability.
 file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/1c941c711ac3fa986d1e8abb95acaf16_lecture14.pdf
+file_size: 218989
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
