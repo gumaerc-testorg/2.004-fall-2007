@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design project on active damping of tall building vibrations.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/47e24d5940db56ab9ef786b3095414b0_tower1.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/47e24d5940db56ab9ef786b3095414b0_tower1.pdf
 file_size: 197884
 file_type: application/pdf
 learning_resource_types:
