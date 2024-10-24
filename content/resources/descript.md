@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A brief description of the 2.004 lab facilities and rules.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/d2d95f4fc6dfb2d3c0a303d37f34ed66_descript.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/d2d95f4fc6dfb2d3c0a303d37f34ed66_descript.pdf
 file_size: 66913
 file_type: application/pdf
 learning_resource_types:

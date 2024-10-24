@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on design using the frequency response and Bode plots
   of underdamped 2nd order systems, cascading sub-systems, and rules for Bode plots
   of systems with multiple poles and zeros
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/d7f72387260ff809af4cd8de9fe1d529_lecture31.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/d7f72387260ff809af4cd8de9fe1d529_lecture31.pdf
 file_size: 176807
 file_type: application/pdf
 learning_resource_types:

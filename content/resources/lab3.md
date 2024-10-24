@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab project on construction and testing of a proportional velocity controller.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/f331d5724fb949e8f6d5337c2547a659_lab3.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/f331d5724fb949e8f6d5337c2547a659_lab3.pdf
 file_size: 131356
 file_type: application/pdf
 learning_resource_types:

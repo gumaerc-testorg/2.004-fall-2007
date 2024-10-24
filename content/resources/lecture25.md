@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the Laplace?domain solution of the state equations.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/06e93bf02326492829b1950e29645b33_lecture25.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/06e93bf02326492829b1950e29645b33_lecture25.pdf
 file_size: 179270
 file_type: application/pdf
 learning_resource_types:
