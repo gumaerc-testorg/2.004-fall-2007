@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on design via root locus, adding a compensator, eliminating
   steady-state error without changing the transient, and other types of compensators.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/a79828e3abd3b00903cefe34ae9d03f3_lecture21.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/a79828e3abd3b00903cefe34ae9d03f3_lecture21.pdf
 file_size: 242626
 file_type: application/pdf
 learning_resource_types:

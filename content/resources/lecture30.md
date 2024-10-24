@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on gain margin and phase margin, the transfer function,
   the frequency response, plotting the frequency response, and Bode diagrams.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/d6a3f04ef3290cc953f2494442b0602f_lecture30.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/d6a3f04ef3290cc953f2494442b0602f_lecture30.pdf
 file_size: 238610
 file_type: application/pdf
 learning_resource_types:
