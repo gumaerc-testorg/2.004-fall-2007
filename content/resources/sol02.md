@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/00c702cbd60cdafb274a74d92b9589e4_sol02.pdf
+file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/00c702cbd60cdafb274a74d92b9589e4_sol02.pdf
 file_size: 98737
 file_type: application/pdf
 learning_resource_types:

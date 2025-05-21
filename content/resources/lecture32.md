@@ -4,7 +4,7 @@ description: Lecture slides on the state-space representation, using Bode plots 
   determine stability, gain margin, phase margin, using frequency response to determine
   transient characteristics, damping ratio, percent overshoot, bandwidth, response
   speed, steady-state error, and gain adjustment in the frequency domain.
-file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/8c15f4312a7b9030915dfd84710aa644_lecture32.pdf
+file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/8c15f4312a7b9030915dfd84710aa644_lecture32.pdf
 file_size: 346134
 file_type: application/pdf
 learning_resource_types:

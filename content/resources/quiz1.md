@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the first quiz.
-file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/117fe29007369503e248107955dcbf0c_quiz1.pdf
+file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/117fe29007369503e248107955dcbf0c_quiz1.pdf
 file_size: 200124
 file_type: application/pdf
 learning_resource_types:
