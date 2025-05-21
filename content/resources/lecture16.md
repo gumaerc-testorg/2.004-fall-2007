@@ -4,7 +4,7 @@ description: Lecture slides on steady state error analysis, definitions, steady-
   error in unity feedback systems, system type and static error constants, the role
   of integrators, steady-state error in the presence of disturbances, and controller
   gain and step disturbance cancellation.
-file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/2ae4b585b8094070cd2b77cbde5d6f6f_lecture16.pdf
+file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/2ae4b585b8094070cd2b77cbde5d6f6f_lecture16.pdf
 file_size: 225413
 file_type: application/pdf
 learning_resource_types:
