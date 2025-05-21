@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides with a review of modeling and transfer functions, passive
   compensators, and time delays.
-file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/e9aa7149ed6efc85e795ba1c4b5e332d_lecture37.pdf
+file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/e9aa7149ed6efc85e795ba1c4b5e332d_lecture37.pdf
 file_size: 237571
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on the DC motor, basic physics and modeling, equation
   of motion, and transfer function.
-file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/92b7076d416d5ae7f9a26c100b52b724_lecture05.pdf
+file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/92b7076d416d5ae7f9a26c100b52b724_lecture05.pdf
 file_size: 341103
 file_type: application/pdf
 learning_resource_types:
