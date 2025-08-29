@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on higher-order systems, nonlinear systems, linearization,
   and DC motor nonlinearities.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/7e87ec9081400f721b5d53f130a3e768_lecture09.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/7e87ec9081400f721b5d53f130a3e768_lecture09.pdf
 file_size: 342956
 file_type: application/pdf
 learning_resource_types:

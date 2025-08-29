@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on solving the state equations in the time and space domains,
   simultaneous control of transient and steady-state error characteristics, proportional-integral-derivative
   (PID) controller, and design using root locus.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/006b6510d631c7e5ec1ad0c1249ea4af_lecture33.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/006b6510d631c7e5ec1ad0c1249ea4af_lecture33.pdf
 file_size: 323297
 file_type: application/pdf
 learning_resource_types:
