@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides with a review of frequency domain and design.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/04d8156436c4203aac426ccbfcfe2b1b_lecture39.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/04d8156436c4203aac426ccbfcfe2b1b_lecture39.pdf
 file_size: 18360
 file_type: application/pdf
 learning_resource_types:

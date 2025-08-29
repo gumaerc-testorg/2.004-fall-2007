@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on feedback design examples, compensator design using
   the root locus, and state space.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/6842f16b609cd27a97be4a8186ee6513_lecture26.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/6842f16b609cd27a97be4a8186ee6513_lecture26.pdf
 file_size: 261981
 file_type: application/pdf
 learning_resource_types:

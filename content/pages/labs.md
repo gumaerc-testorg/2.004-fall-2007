@@ -3,7 +3,7 @@ content_type: page
 description: This section provides information on the course labs and a brief description
   of the lab facilities and rules.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 297befa5-f0da-480c-cd4d-d14eea022573

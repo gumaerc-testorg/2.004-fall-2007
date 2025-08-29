@@ -2,7 +2,7 @@
 content_type: resource
 description: 'MATLAB? files for solving ODEs from Lecture 2. (The ZIP file contains:
   shaft_w_coulomb_viscous.m, shaftcv_kernel.m, and shaftcv_solve.m.)'
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/cab84318d7793062ef90163d9d5183bd_ODE.zip
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/cab84318d7793062ef90163d9d5183bd_ODE.zip
 file_size: 813
 file_type: application/zip
 learning_resource_types:

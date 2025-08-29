@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on the design of transient response using root locus.
-file: /courses/2-004-systems-modeling-and-control-ii-fall-2007/436d7daad6dc44feada0aa44063de3ed_lecture19.pdf
+file: /ol-ocw-studio-app/courses/2-004-systems-modeling-and-control-ii-fall-2007/436d7daad6dc44feada0aa44063de3ed_lecture19.pdf
 file_size: 90865
 file_type: application/pdf
 learning_resource_types:
