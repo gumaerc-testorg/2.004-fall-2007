@@ -204,7 +204,7 @@ Stability analysis
 {{< tdopen >}}
 
 
-Please see the following selections from MathWorks, Inc. "Control System Toolbox Getting Started Guide." ([PDF - 1.8 MB](https://www.mathworks.com/help/control/getting-started-with-control-system-toolbox.html))
+Please see the following selections from MathWorks, Inc. "Control System Toolbox Getting Started Guide." ({{% resource_link "0e412448-5019-46f4-a0b4-79cdbb133619" "PDF - 1.8 MB" %}})
 
 Chapter 1, all  
 Chapter 2, pp. 1-9 and 23-25  
